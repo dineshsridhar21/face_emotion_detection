@@ -1,8 +1,6 @@
 # face_emotion_detection
-
-#Introduction
+#introduction
 This project which mainly focus on face detection and emotion detection together. This emotion detection architecture is an CNN(Convolutional Neural Network). A convolutional neural network (CNN or ConvNet) is a network architecture for deep learning that learns directly from data. CNNs are particularly useful for finding patterns in images to recognize objects, classes, and categories.
-
 #REQUIREMENTS
 Python 
 Keras
