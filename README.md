@@ -22,7 +22,7 @@ This project which mainly focus on face detection and emotion detection together
 # CNN ARCHITECTURE FLOW  
 ![A-generic-CNN-Architecture](https://github.com/dineshsridhar21/face_emotion_detection/assets/113243447/f7835a8b-07a0-42fe-ace4-5fdc8bd6bec3)
 
-# FACE ARCHITECTURE FLOW
+# FACE EMOTION RECOGNITON ARCHITECTURE FLOW
 ![architecture face Recognition](https://github.com/dineshsridhar21/face_emotion_detection/assets/113243447/8971d659-f9e5-410a-bc6a-54f61b3607f9)
 
 
