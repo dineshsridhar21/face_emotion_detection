@@ -48,7 +48,7 @@ This is a brief overview of face and emotion detection using Python.
 
 * Next, open the main.ipynb file.
 
-# VIDEO FILE 
+# SAMPLE RECORDED VIDEO FILE 
 https://github.com/dineshsridhar21/face_emotion_detection/assets/113243447/89c3ab16-0bce-4723-a521-5a6352567803
 
 # SUMMARY
