@@ -37,7 +37,7 @@ Here is an overview of this project, which focuses on person and emotion detecti
  *  pooling to reduce the dimensions by selecting the highest value in each region.
  *  In the final dense layer, all neurons are connected. Upon completion of training and testing, you need save the trained weights for further use. 
 
-* In the main file, face encoding is performed to labeled for each person with an single image for an training purpose. After training the face encoding data, the weights are saved as a pickle format and need loaded during runtime. The system captures live images and detects individuals using the BGR (blue, green, red) color format. Additionally, the implementation includes time calculation for emotion detection they have spend on the same, changing the display color from green to red based on the duration for overtime spending on same emotion.
+In the main file, face encoding is performed to labeled for each person with an single image for an training purpose. After training the face encoding data, the weights are saved as a pickle format and need loaded during runtime. The system captures live images and detects individuals using the BGR (blue, green, red) color format. Additionally, the implementation includes time calculation for emotion detection they have spend on the same, changing the display color from green to red based on the duration for overtime spending on same emotion.
 
 This is a brief overview of face and emotion detection using Python.
 
