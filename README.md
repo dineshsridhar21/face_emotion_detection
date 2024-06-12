@@ -44,9 +44,9 @@ This is a brief overview of face and emotion detection using Python.
 # HOW TO USE THE CODE
 * First, install all the required packages and set up your IDE. Once the setup is complete, check the URL paths for both datasets and update them according to your directory structure.
 
-* After updating the paths, run the face_emotion_detection.ipynb file. This will generate a pre-trained model weight file named emotion_model_weights.h5.
+* After updating the paths, run the face_emotion_detection.py file. This will generate a pre-trained model weight file named emotion_model_weights.h5.
 
-* Next, open the main.ipynb file.
+* Next, open the main.py file.
 
 # SAMPLE RECORDED VIDEO FILE 
 https://github.com/dineshsridhar21/face_emotion_detection/assets/113243447/89c3ab16-0bce-4723-a521-5a6352567803
