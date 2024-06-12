@@ -42,7 +42,7 @@ history = emotion_model.fit(train_generator,
                     validation_data= test_generator,
                     validation_steps= 7178//64)
 
-emotion_model.save('emotion_weights.h5')
+emotion_model.save('emotion_model_weights.h5')
 
 
 history_detect = emotion_model.history.history
